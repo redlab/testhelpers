@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>be.redlab.testhelpers</groupId>
 	<artifactId>testhelpers</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>testhelpers</name>
 	<packaging>jar</packaging>
 	<description>Simple classes that can be useful for writing tests.</description>
