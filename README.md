@@ -2,7 +2,7 @@
 Testhelpers is collection of classes that could help when writing test.
 
 ## Build
-The build status, thanks to [cloudbees http://www.cloudbees.com] !
+The build status, thanks to [cloudbees] (http://www.cloudbees.com) 
 [![Build Status](https://redlab.ci.cloudbees.com/job/testhelpers/badge/icon)](https://redlab.ci.cloudbees.com/job/testhelpers/)
 
 ## Usage
